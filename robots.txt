@@ -2,3 +2,4 @@ User-agent: *
 Allow: /
 
 Sitemap: https://dohyung9810.github.io/sitemap.xml
+Sitemap: https://dohyung9810.github.io/paystub/sitemap.xml
